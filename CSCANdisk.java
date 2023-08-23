@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class CSCANdisk {
 
     static int n;
-    static int diskSize = 100;
+    static int diskSize = 200;
 
     static void CSCAN(int[] arr, int head) {
         float seekCount = 0;
